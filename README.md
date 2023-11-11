@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png" height="200"/>
+</p>
+<hr>
 <h1 align="center">Hi 👋, I'm Dylan Gabriel</h1>
 <h3 align="center">I'm a student and I live in Mexico</h3>
 
