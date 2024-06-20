@@ -6,7 +6,7 @@
 <h3 align="center">I'm a student and I live in Mexico</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dylan-gabriel&label=Profile%20views&color=grey&style=flat-square" alt="dylan-gabriel" />
+  <img src="https://komarev.com/ghpvc/?username=dylan-gabriel&label=Profile%20views&color=blue&style=plastic" alt="dylan-gabriel" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dylan-gabriel&show_icons=true&locale=en&layout=compact" alt="dylan-gabriel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dylan-gabriel&show_icons=true&locale=en&layout=compact&theme=radical" alt="dylan-gabriel" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dylan-gabriel&show_icons=true&locale=en" alt="dylan-gabriel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dylan-gabriel&show_icons=true&locale=en&theme=radical" alt="dylan-gabriel" />
 </p>
