@@ -6,7 +6,7 @@
 <h3 align="center">I'm a student and I live in Mexico</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dylan-gabriel&label=Profile%20views&color=0e75b6&style=flat" alt="dylan-gabriel" />
+  <img src="https://komarev.com/ghpvc/?username=dylan-gabriel&label=Profile%20views&color=grey&style=flat-square" alt="dylan-gabriel" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
