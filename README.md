@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Dylan Gabriel</h1>
 <h3 align="center">I'm a student and I live in Mexico</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dylan-gabriel&label=Profile%20views&color=blue&style=plastic" alt="dylan-gabriel" />
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
