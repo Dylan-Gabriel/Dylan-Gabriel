@@ -68,11 +68,6 @@
 
 ---
 
-<!-- small aesthetic footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dylan-gabriel&label=profile%20views&color=ff69b4&style=flat-square" alt="views"/>
-</p>
-
 <p align="center">
   <i>“keep improving. even if it's 1%.”</i>
 </p>
