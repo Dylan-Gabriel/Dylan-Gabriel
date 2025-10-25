@@ -11,9 +11,8 @@
 ### 👨‍💻 Sobre mí
 - 🎓 Actualmente estudio **Matemáticas Aplicadas y Computación (MAC)**  
 - 💻 Me gusta programar en **C, C++ y Python**, especialmente para resolver problemas matemáticos o de optimización  
-- 📊 Me interesan los algoritmos, el análisis de datos y la modelación matemática  
-- 🧠 Siempre estoy aprendiendo algo nuevo (aunque a veces rompa la compu 😅)  
-- 🎮 Cuando no estoy programando, juego videojuegos o veo contenido en YouTube  
+- 📊 Me interesan las bases de datos, el análisis de datos y la modelación matemática  
+- 🧠 Siempre estoy aprendiendo algo nuevo  
 
 ---
 
@@ -68,10 +67,6 @@
 -->
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dylan-gabriel&label=visitas%20al%20perfil&color=ff69b4&style=flat-square" alt="views"/>
-</p>
 
 <p align="center">
   <i>“Sigue mejorando, aunque sea un 1% cada día.”</i>
