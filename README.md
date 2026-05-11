@@ -1,56 +1,122 @@
-<!-- Banner / intro -->
+````md
+<!-- HEADER -->
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png" height="220px" />
-</div>
 
-<div align="center">
-  <h3>Estudiante de Matemáticas Aplicadas y Computación · México 🇲🇽</h3>
-  <p><i>“Transformando algoritmos en soluciones y datos en decisiones.”</i></p>
-</div>
+# 👨‍💻 Dylan Gabriel
 
----
+### Estudiante de Matemáticas Aplicadas y Computación 🇲🇽
 
-### 👨‍💻 Sobre mí
-Soy un apasionado de la intersección entre las **ciencias exactas** y el **desarrollo de software**. Me enfoco en crear código eficiente para resolver problemas complejos de optimización y modelación.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Optimización+%7C+C%2B%2B+%7C+Python;Mathematics+%2B+Computer+Science;Construyendo+algoritmos+y+soluciones;Data+%2C+Modelado+y+Sistemas" />
 
-- 🎓 **Carrera:** Matemáticas Aplicadas y Computación (MAC).
-- 💡 **Intereses:** Análisis de datos, optimización numérica y desarrollo de sistemas de bajo nivel.
-- 🛠️ **Enfoque actual:** Profundizando en estructuras de datos en C++ y modelación estadística con Python.
-
----
-
-### 🚀 Stack Tecnológico
-
-**Lenguajes & Core**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-</p>
-
-**Herramientas & Entorno**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square" />
-</p>
-
----
-
-### 📊 Mis Estadísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dylan-gabriel&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-### 📫 Conecta conmigo
-<p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+# 🧠 Sobre mí
+
+```cpp
+class DylanGabriel {
+public:
+    string carrera = "Matemáticas Aplicadas y Computación";
+
+    vector<string> intereses = {
+        "Optimización Numérica",
+        "Modelación Estadística",
+        "Estructuras de Datos",
+        "Desarrollo de Sistemas",
+        "Análisis de Datos"
+    };
+
+    void aprender() {
+        while(true) {
+            estudiar();
+            programar();
+            mejorar();
+        }
+    }
+};
+````
+
+---
+
+# ⚡ Stack Tecnológico
+
+## 💻 Lenguajes
 
 <p align="center">
-  <i>"Sigue mejorando, aunque sea un 1% cada día."</i>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
+
+## 🛠️ Herramientas & Entorno
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,latex" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dylan-gabriel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-gabriel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dylan-gabriel&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🚀 Actualmente
+
+* 📚 Aprendiendo más sobre:
+
+  * Optimización matemática
+  * Estadística aplicada
+  * Algoritmos en C++
+  * Sistemas Linux
+
+* 🔬 Trabajando en:
+
+  * Modelos probabilísticos
+  * Simulaciones
+  * Proyectos académicos de programación
+
+---
+
+# 🧩 Filosofía
+
+<div align="center">
+
+> “Transformando algoritmos en soluciones y datos en decisiones.”
+
+</div>
+
+---
+
+# 🌐 Conecta conmigo
+
+<div align="center">
+
+<a href="https://linkedin.com/in/TU_USUARIO">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tu_correo@ejemplo.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ “Sigue mejorando, aunque sea 1% cada día.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+
+</div>
+```
