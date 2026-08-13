@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <div align="center">
   <img src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_1280.png" height="220px" />
@@ -11,7 +10,7 @@
 
 ### Estudiante de Matemáticas Aplicadas y Computación 🇲🇽
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Optimización+%7C+C%2B%2B+%7C+Python;Mathematics+%2B+Computer+Science;Construyendo+algoritmos+y+soluciones;Data+Science+%7C+Linux+%7C+Algorithms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Optimizaci%C3%B3n+%7C+C%2B%2B+%7C+Python;Mathematics+%2B+Computer+Science;Construyendo+algoritmos+y+soluciones;Data+Science+%7C+Linux+%7C+Algorithms" />
 
 </div>
 
@@ -56,23 +55,6 @@
 
 <!-- Snake Animation -->
 <img width="90%" src="https://raw.githubusercontent.com/dylan-gabriel/dylan-gabriel/output/github-contribution-grid-snake-dark.svg" />
-
-<br><br>
-
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dylan-gabriel&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-gabriel&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<!-- Streak Stats -->
-<img width="75%" src="https://streak-stats.demolab.com?user=dylan-gabriel&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=dylan-gabriel&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
