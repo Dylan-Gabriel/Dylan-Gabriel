@@ -2,9 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 24 horas
     - cron: "0 0 * * *" 
   workflow_dispatch:
+
+# Otorga permisos explícitos de escritura al token de GitHub Actions
+permissions:
+  contents: write
 
 jobs:
   generate:
