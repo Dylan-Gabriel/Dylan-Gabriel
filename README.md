@@ -6,11 +6,9 @@
 <!-- Header -->
 <div align="center">
 
-# 👨‍💻 Dylan Gabriel
+# 👨‍💻 Dylan Gabriel Albor Saucedo
 
 ### Estudiante de Matemáticas Aplicadas y Computación 🇲🇽
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Optimizaci%C3%B3n+%7C+C%2B%2B+%7C+Python;Mathematics+%2B+Computer+Science;Construyendo+algoritmos+y+soluciones;Data+Science+%7C+Linux+%7C+Algorithms" />
 
 </div>
 
@@ -21,9 +19,8 @@
 <div align="center">
 
 🎓 Estudiante de **Matemáticas Aplicadas y Computación**  
-💡 Interesado en optimización matemática, análisis de datos y sistemas computacionales  
+💡 Interesado en bases de datos, análisis de datos, sistemas computacionales  
 ⚙️ Construyendo soluciones mediante programación, modelación y algoritmos  
-📚 Actualmente aprendiendo estructuras de datos, estadística y desarrollo en C++  
 
 </div>
 
@@ -34,7 +31,7 @@
 ## 💻 Lenguajes
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ## 🛠️ Herramientas & Entorno
